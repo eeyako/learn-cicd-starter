@@ -26,5 +26,3 @@ This is a sample python script
 ```py
 print("Hello, world!")
 ```
-
-Adding something
